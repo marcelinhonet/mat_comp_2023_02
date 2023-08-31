@@ -26,7 +26,8 @@ Fim-enumeração.
 
 Exercicio 2.4:
 Enumeração Colega_de_Classe:
-Beatriz = ;)
+Beatriz = ![image](https://github.com/marcelinhonet/mat_comp_2023_02/assets/62179343/d87bd09c-ad86-4f21-8f25-74569d5f512c)
+
 Fim-enumeração.
 
 Exercicio 2.5:
