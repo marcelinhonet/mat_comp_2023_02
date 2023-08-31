@@ -31,10 +31,10 @@ Beatriz = ![image](https://github.com/marcelinhonet/mat_comp_2023_02/assets/6217
 Fim-enumeração.
 
 Exercicio 2.5:
-Primeiro elemento: a₁ = 2 
-Segundo elemento: a₂ = 3 * a₁ = 3 * 2 = 6.
-Terceiro elemento: a₃ = 3 * a₂ = 3 * 6 = 18.
-Quarto elemento: a₄ = 3 * a₃ = 3 * 18 = 54.
+<p>Primeiro elemento: a₁ = 2 </p>
+<p>Segundo elemento: a₂ = 3 * a₁ = 3 * 2 = 6.</p>
+<p>Terceiro elemento: a₃ = 3 * a₂ = 3 * 6 = 18.</p>
+<p>Quarto elemento: a₄ = 3 * a₃ = 3 * 18 = 54.</p>
 
 Exercicio 2.6:
 
